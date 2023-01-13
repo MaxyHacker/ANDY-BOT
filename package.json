@@ -1,7 +1,7 @@
 {
-  "name": "Andymrlit",
+  "name": "KirBotz-Ganteng",
   "version": "3.0.0",
-  "description": "Do Not Change the Name Above",
+  "description": "Jangan Ubah Nama Di Atas",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -71,6 +71,7 @@
     "spinnies": "^0.5.1",
     "util": "^0.12.4",
     "yargs": "^17.2.1",
+    "ytdl-core": "^4.11.0"
   },
   "devDependencies": {},
   "repository": {
